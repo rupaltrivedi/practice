@@ -1,10 +1,1 @@
- Volume in drive C is Windows-SSD
- Volume Serial Number is 207C-3C26
-
- Directory of C:\Users\Rupal Trivedi\Desktop\myproject
-
-05/14/2020  08:33 PM    <DIR>          .
-05/14/2020  08:33 PM    <DIR>          ..
-05/14/2020  08:33 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  192,839,634,944 bytes free
+change 1
